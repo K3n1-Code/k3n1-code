@@ -10,7 +10,7 @@
 - 🔭 Currently working on:
   - Modding Minecraft
   - Computer Science Graduation Codes
-  - Projects to improve me curriculum
+  - Projects to improve my curriculum
 - 🌱 Currently Learning:
   - Networks 
 - 📫 How to reach me:
@@ -18,7 +18,7 @@
 
   
 ### Português
--Desenvolvedora Back-end
+- Desenvolvedora Back-end
 - ⌨️ LANGs que eu tenho experiência:
   - Java
   - C++
